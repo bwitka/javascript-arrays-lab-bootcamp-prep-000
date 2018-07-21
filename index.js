@@ -25,10 +25,11 @@ function destructivelyRemoveFirstKitten() {
   return kittens;
 }
 
-/*function appendKitten(name) {
-  var newArray = kittens.slice(1);
+function appendKitten(name) {
+  var nameArray = [name];
+  let newArray = kittens.concat(nameArray);
   return newArray;
-}*/
+}
 
 function prependKitten(name) {
   var nameArray = [name];
