@@ -30,7 +30,7 @@ function appendKitten(name) {
   return kittens;
 }
 
-function prependKitten(name) {
+/*function prependKitten(name) {
   kittens.(name);
   return kittens;
 }
@@ -43,4 +43,4 @@ function removeLastKitten() {
 function removeFirstKitten() {
   kittens.(name);
   return kittens;
-}
+}*/
