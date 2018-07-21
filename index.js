@@ -1,4 +1,7 @@
 // Add your functions and code here
+//"append" means "to add at the end".
+//
+
 var kittens = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendKitten(name) {
