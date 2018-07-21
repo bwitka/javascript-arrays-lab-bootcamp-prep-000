@@ -32,7 +32,7 @@ function destructivelyRemoveFirstKitten() {
 
 function prependKitten(name) {
   var nameArray = [name];
-  let newArray = nameArray.concat
+  let newArray = nameArray.concat()
   return newArray;
 }
 
