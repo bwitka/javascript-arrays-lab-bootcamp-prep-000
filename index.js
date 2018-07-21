@@ -1,6 +1,7 @@
 // Add your functions and code here
-//"append" means "to add at the end".
-//
+
+//Note: "append" means "to add at the end".
+//Note: "prepend" means "to add at the beginning".
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
